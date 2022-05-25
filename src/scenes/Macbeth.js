@@ -27,11 +27,13 @@ class Macbeth extends Phaser.Scene {
         this.dialogText = null;			// the actual dialog text
         this.nextText = null;			// player prompt text to continue typing
 
+        // act iv scene ii !!!
         // character variables
-        this.homer = null;
-        this.minerva = null;
-        this.neptune = null;
-        this.jove = null;
+        this.macDuff = null;
+        this.ross = null;
+        this.son = null;
+        this.messenger = null;
+        this.murderer = null;
         this.tweenDuration = 500;
 
         this.OFFSCREEN_X = -500;        // x,y values to place characters offscreen
@@ -40,7 +42,7 @@ class Macbeth extends Phaser.Scene {
 
     create() {
         // parse dialog from JSON file
-        this.dialog = this.cache.json.get('dialog');
+        this.dialog = this.cache.json.get('macbeth');
         //console.log(this.dialog);
 
         // add dialog box sprite
@@ -51,10 +53,11 @@ class Macbeth extends Phaser.Scene {
         this.nextText = this.add.bitmapText(this.NEXT_X, this.NEXT_Y, this.DBOX_FONT, '', this.TEXT_SIZE);
 
         // ready the character dialog images offscreen
-        this.homer = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'homer').setOrigin(0, 1);
-        this.minerva = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'minerva').setOrigin(0, 1);
-        this.neptune = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'neptune').setOrigin(0, 1);
-        this.jove = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'jove').setOrigin(0, 1);
+        this.macDuff = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'macduff').setOrigin(0, 1).setScale(0.35);
+        this.ross = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'ross').setOrigin(0, 1).setScale(0.25);
+        this.son = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'son').setOrigin(0, 1).setScale(0.25);
+        this.messenger = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'messenger').setOrigin(0, 1).setScale(0.4);
+        this.murderer = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'murderer').setOrigin(0, 1).setScale(0.3);
 
         // input
         cursors = this.input.keyboard.createCursorKeys();

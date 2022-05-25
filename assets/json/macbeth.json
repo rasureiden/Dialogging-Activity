@@ -1,0 +1,230 @@
+[
+	[
+		{
+			"speaker" : "macDuff",
+			"dialog" : "What had he done, to make him fly the land?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "ross",
+			"dialog" : "You must have patience, madam.",
+            "newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "He had none: His flight was madness: when our actions do not, Our fears do make us traitors.",
+            "newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "ross",
+			"dialog" : "You know not Whether it was his wisdom or his fear.",
+            "newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "Wisdom! to leave his wife, to leave his babes, His mansion and his titles in a place From whence himself does fly? He loves us not; He wants the natural touch: for the poor wren, The most diminutive of birds, will fight,",
+            "newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Her young ones in her nest, against the owl.            All is the fear and nothing is the love;            As little is the wisdom, where the flight            So runs against all reason."
+		},
+		{	
+			"speaker" : "ross",
+			"dialog" : "My dearest coz, I pray you, school yourself: but for your husband,He is noble, wise, judicious, and best knows The fits o' the season.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "ross",
+			"dialog" : "I dare not speak much further;  But cruel are the times, when we are traitors   And do not know ourselves, when we hold rumour From what we fear, yet know not what we fear, But float upon a wild and violent sea"
+        },
+        {
+            "speaker" : "ross",
+			"dialog" : "Each way and move. I take my leave of you: Shall not be long but I'll be here again: Things at the worst will cease, or else climb upward To what they were before. My pretty cousin, Blessing upon you!"
+        },
+		{
+			"speaker" : "macDuff",
+			"dialog" : "Father'd he is, and yet he's fatherless.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "ross",
+			"dialog" : "I am so much a fool, should I stay longer,            It would be my disgrace and your discomfort:            I take my leave at once.",
+            "newSpeaker" : "true"
+		}
+    ],
+    [
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "Sirrah, your father's dead;            And what will you do now? How will you live?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "son",
+			"dialog" : "As birds do, mother.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "What, with worms and flies?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "son",
+			"dialog" : "With what I get, I mean; and so do they.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Poor bird! thou'ldst never fear the net nor lime,            The pitfall nor the gin.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "Why should I, mother? Poor birds they are not set for.            My father is not dead, for all your saying.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Yes, he is dead; how wilt thou do for a father?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "Nay, how will you do for a husband?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Why, I can buy me twenty at any market.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "son",
+			"dialog" : "Then you'll buy 'em to sell again.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "Thou speak'st with all thy wit: and yet, i' faith,            With wit enough for thee.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "son",
+			"dialog" : "Was my father a traitor, mother?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Ay, that he was.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "What is a traitor?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Why, one that swears and lies.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "And be all traitors that do so?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Every one that does so is a traitor, and must be hanged.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "And must they all be hanged that swear and lie?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Every one.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "son",
+			"dialog" : "Who must hang them?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "Why, the honest men.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "son",
+			"dialog" : "Then the liars and swearers are fools, for there are liars and swearers enow to beat the honest men and hang up them.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Now, God help thee, poor monkey!            But how wilt thou do for a father?",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "If he were dead, you'ld weep for            him: if you would not, it were a good sign            that I should quickly have a new father.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "macDuff",
+			"dialog" : "Poor prattler, how thou talk'st!",
+			"newSpeaker" : "true"
+		}
+		
+	],
+	[
+		{	
+			"speaker" : "messenger",
+			"dialog" : "Bless you, fair dame! I am not to you known, Though in your state of honour I am perfect. I doubt some danger does approach you nearly: If you will take a homely man's advice,",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "messenger",
+			"dialog" : "Be not found here; hence, with your little ones. To fright you thus, methinks, I am too savage; To do worse to you were fell cruelty, Which is too nigh your person. Heaven preserve you! I dare abide no longer."
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "Whither should I fly? I have done no harm. But I remember now I am in this earthly world; where to do harm Is often laudable, to do good sometime Accounted dangerous folly: why then, alas, Do I put up that womanly defence, To say I have done no harm? What are these faces?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "murderer",
+			"dialog" : "Where is your husband?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "macDuff",
+			"dialog" : "I hope, in no place so unsanctified  Where such as thou mayst find him.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "murderer",
+			"dialog" : "He's a traitor.",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "Thou liest, thou shag-hair'd villain!",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "murderer",
+			"dialog" : "What, you egg!            *Stabbing him*            Young fry of treachery!",
+			"newSpeaker" : "true"
+		},
+        {	
+			"speaker" : "son",
+			"dialog" : "He has kill'd me, mother: Run away, I pray you!",
+			"newSpeaker" : "true"
+		}
+	]
+]

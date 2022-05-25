@@ -111,6 +111,7 @@ class Talking extends Phaser.Scene {
             }
             // make text box invisible
             this.dialogbox.visible = false;
+            this.scene.start('macbethScene');
 
         } else {
             // if not, set current speaker
